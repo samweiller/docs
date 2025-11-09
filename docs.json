@@ -1,6 +1,6 @@
 {
     "$schema": "https://mintlify.com/docs.json",
-    "theme": "willow",
+    "theme": "almond",
     "name": "CANlab @ Berkeley",
     "colors": {
         "primary": "#16A34A",
