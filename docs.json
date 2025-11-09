@@ -16,7 +16,7 @@
                 "icon": "api",
                 "tabs": [
                     {
-                        "tab": "Guides",
+                        "tab": "Phone Screening",
                         "groups": [
                             {
                                 "group": "Getting started",
@@ -53,7 +53,27 @@
                         ]
                     },
                     {
-                        "tab": "API reference",
+                        "tab": "Intake",
+                        "groups": [
+                            {
+                                "group": "API documentation",
+                                "pages": [
+                                    "api-reference/introduction"
+                                ]
+                            },
+                            {
+                                "group": "Endpoint examples",
+                                "pages": [
+                                    "api-reference/endpoint/get",
+                                    "api-reference/endpoint/create",
+                                    "api-reference/endpoint/delete",
+                                    "api-reference/endpoint/webhook"
+                                ]
+                            }
+                        ]
+                    },
+                  {
+                        "tab": "Pre-ROC Session",
                         "groups": [
                             {
                                 "group": "API documentation",
