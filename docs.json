@@ -1,7 +1,7 @@
 {
     "$schema": "https://mintlify.com/docs.json",
     "theme": "mint",
-    "name": "Mint Starter Kit",
+    "name": "CANlab @ Berkeley",
     "colors": {
         "primary": "#16A34A",
         "light": "#07C983",
@@ -88,23 +88,6 @@
                     "icon": "newspaper"
                 }
             ]
-        }
-    },
-    "logo": {
-        "light": "/logo/light.svg",
-        "dark": "/logo/dark.svg"
-    },
-    "navbar": {
-        "links": [
-            {
-                "label": "Support",
-                "href": "mailto:hi@mintlify.com"
-            }
-        ],
-        "primary": {
-            "type": "button",
-            "label": "Dashboard",
-            "href": "https://dashboard.mintlify.com"
         }
     },
     "contextual": {
